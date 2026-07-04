@@ -45,7 +45,8 @@ All processing was done in the cloud through the Google Earth Engine (GEE) Pytho
 
 The map below shows the dNDVI/dNBR change layer over the area of interest. Red and purple tones indicate the strongest vegetation loss, closely matching the shape of the fire scar visible in satellite imagery.
 
-![dNDVI and dNBR change map](images/map_dNVDI_dNBR.png)
+![dNDVI and dNBR change map](images/map_dNDVI_dNBR.png)
+
 
 ## Limitations
 
