@@ -45,7 +45,7 @@ All processing was done in the cloud through the Google Earth Engine (GEE) Pytho
 
 The map below shows the dNDVI/dNBR change layer over the area of interest. Red and purple tones indicate the strongest vegetation loss, closely matching the shape of the fire scar visible in satellite imagery.
 
-![dNDVI and dNBR change map](images/map_dNVDI_d.png)
+![dNDVI and dNBR change map](images/map_dNVDI_dNBR.png)
 
 ## Limitations
 
@@ -67,9 +67,9 @@ The map below shows the dNDVI/dNBR change layer over the area of interest. Red a
 sentinel2-wildfire-severity-mapping/
 ├── README.md
 ├── notebooks/
-│   └── sentinel2_ndvi_wildfire_analysis.ipynb
+│   └── sentinel2_wildfire_analysis.ipynb
 ├── images/
-│   └── map_dndvi_dnbr.png
+│   └── map_dNDVI_dNBR.png
 └── environment.yml
 ```
 
